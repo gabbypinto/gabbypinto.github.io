@@ -63,4 +63,4 @@ Teaching
 ======
 * Currently signed in to 43 different slack teams -->
 
-[Download Full CV here](http://academicpages.github.io/files/GabrielaPintoCV.pdf)
+[Download Full CV here](http://gabbypinto.github.io/files/GabrielaPintoCV.pdf)

@@ -10,7 +10,7 @@ citation: 'Ali, R.H., Pinto, G., Lawrie, E. et al. A large-scale sentiment analy
 ---
 This paper is focuses on analyzing the sentiment towards the candidates of the 2020 election on Twitter.
 
-[Download paper here](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-022-00633-z.pdf)
+[Download paper here](https://gabbypinto.github.io/files/Sentiment2020Elections.pdf)
 
 <!-- Recommended citation: Ali, R.H., Pinto, G., Lawrie, E. et al. A large-scale sentiment analysis of tweets pertaining to the 2020 US presidential election. <i>J Big Data</i> 9, 79 (2022).  -->
 
