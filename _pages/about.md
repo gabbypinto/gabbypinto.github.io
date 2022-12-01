@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Gabriela Pinto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Gabriela Pinto and I'm currently a Masters student at Chapman University majoring in Computational and Data Sciences. I'm interested in pursuing a Ph.D. where I can explore the intersection between Machine Learning and social impact.
+Hello! My name is Gabriela Pinto and I'm currently a M.S. degree in Computational and Data Sciences at Chapman University. I'm interested in pursuing a Ph.D. where I can explore the intersection between Machine Learning and social impact.
 
 
 <!-- Getting started
