@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Computer Science in Chapman University, 2021
+* M.S. Computational and Data Sciences in Chapman University, 2023
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2022 - present: Graduate Research Assistant
+  * Machine Learning and Affiliated Technology Lab, Chapman University
+  * Duties included: Worked collaboratively and independently in an effective manner in various research projects related to data mining, public opinion on social media, and Autism research
+  * Supervisor: Dr. Erik Linstead
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2020 - February 2022: Undergraduate Research Assistant
+  * Machine Learning and Affiliated Technology Lab, Chapman University
+  * Duties included: Worked collaboratively and independently in an effective manner in various research projects related to data mining, public opinion on social media, and Autism research
+  * Supervisor: Dr. Erik Linstead
+
+* Summer 2021: REU Program Participant, REU in Learning Sciences and Technology
+  * Worcester Polytechnic Institute
+  * Duties included:  Implemented natural language processing techniques that automates the scoring of free response mathematical problems using Python
+  * Supervisor: Neil Heffernan
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +59,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+[Download Full CV here](http://academicpages.github.io/files/GabrielaPintoCV.pdf)
