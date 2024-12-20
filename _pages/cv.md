@@ -13,7 +13,7 @@ Education
 ======
 * B.S. Computer Science, Chapman University, 2021
 * M.S. Computational and Data Sciences, Chapman University, 2023
-* Ph.D. Computer Science, University of Southern California, started Fall 2023
+* PhD Computer Science, University of Southern California, started Fall 2023
 
 
 Research experience
