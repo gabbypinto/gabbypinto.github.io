@@ -1,7 +1,7 @@
 ---
 title: "Tracking the 2024 US Presidential Election Chatter on Tiktok: A Public Multimodal Dataset"
 collection: publications
-permalink: /publication/2024-07-01-TikTokUSData-7
+permalink: /publication/2024-07-02-TikTokUSData-7
 excerpt: 'This paper documents our release of a large-scale data collection of TikTok posts related to the upcoming 2024 U.S. Presidential Election. Our current data comprises 1.8 million videos published between November 1, 2023, and May 26, 2024. Its exploratory analysis identifies the most common keywords, hashtags, and bigrams in both Spanish and English posts, focusing on the election and the two main Presidential candidates, President Joe Biden and Donald Trump. We utilized the TikTok Research API, incorporating various election-related keywords and hashtags, to capture the full scope of relevant content. To address the limitations of the TikTok Research API, we also employed third-party scrapers to expand our dataset. The dataset is publicly available at https://github.com/gabbypinto/US2024PresElectionTikToks'
 date: 2024-07-02
 venue: 'arXiv preprint arXiv:2402.05882'
