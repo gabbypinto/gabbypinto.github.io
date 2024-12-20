@@ -11,13 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Science in Chapman University, 2021
-* M.S. Computational and Data Sciences in Chapman University, 2023
+* B.S. Computer Science, Chapman University, 2021
+* M.S. Computational and Data Sciences, Chapman University, 2023
+* Ph.D. Computer Science, University of Southern California, started Fall 2023
 
 
 Research experience
 ======
-* February 2022 - present: Graduate Research Assistant
+* August 2023 - present: PhD Student/Lab Member
+  * HUMANS Lab, University of Southern California
+  * Duties included: Leading in large-scale multimodal data collection, head of research projects centered on LLM-based agentic systems and bias in LLMs
+  * Supervisor: Dr. Emilio Ferrara
+
+
+* February 2022 - May 2023: Graduate Research Assistant
   * Machine Learning and Affiliated Technology Lab, Chapman University
   * Duties included: Worked collaboratively and independently in an effective manner in various research projects related to data mining, public opinion on social media, and Autism research
   * Supervisor: Dr. Erik Linstead
