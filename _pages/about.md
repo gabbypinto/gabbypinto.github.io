@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Gabriela Pinto and I'm currently pursuing a M.S. degree in Computational and Data Sciences at Chapman University. I'm interested in pursuing a Ph.D. where I can explore the intersection between Machine Learning and social impact.
+Hello! My name is Gabriela Pinto and I'm currently pursuing a Ph.D. in Computer Science at the University of Souther California under Dr. Emilio Ferrara at the HUMANS lab. 
+
+My research interests are currently centered on LLM-based Agents, Multimodality, Ethical Concerns and Bias in LLMs.
 
 
 <!-- Getting started
