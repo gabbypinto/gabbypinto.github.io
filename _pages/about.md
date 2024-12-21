@@ -8,9 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Gabriela Pinto and I'm currently pursuing a Ph.D. in Computer Science at the University of Souther California under Dr. Emilio Ferrara at the HUMANS lab. 
+Hello! My name is Gabriela Pinto and I'm currently pursuing a Ph.D. in Computer Science at the University of Souther California. I am currently advised by Dr. Emilio Ferrara at the HUMANS lab. 
 
 My research interests are currently centered on LLM-based Agents, Multimodality, Ethical Concerns and Bias in LLMs.
+
+<div class="highlights">
+  <h2>2024 Highlights</h2>
+  <ul>
+    <!-- <li>July 2024: Published Memo v1 of the US Election TikTok Multimodal Dataset</li> -->
+    <li>July 2024: Published Memo v1 of the US Election TikTok Multimodal Dataset</li>
+    <li>June 2024: Presented at ICWSM Conference</li>
+    <li>August 2023: Joined the HUMANS lab at USC (led by Dr. Emilio Ferrara)</li>
+  </ul>
+</div>
+<style>
+.highlights {
+  max-width: 800px; /* Set a maximum width matching your content area */
+  width: 100%; /* Use a percentage to make it responsive */
+  margin: 20px auto; /* Center the box horizontally */
+  padding: 10px;
+  background: #eef; /* Background color */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+.highlights h2 {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+.highlights ul {
+  list-style: none;
+  padding: 0;
+}
+.highlights li {
+  margin: 5px 0;
+  font-size: 1em;
+}
+</style>
+
 
 
 <!-- Getting started
